@@ -7,7 +7,7 @@
 *.o
 *.so
 
-#IDE#
+# IDE #
 #####
 # IntelliJ project files
 *.iml
