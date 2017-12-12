@@ -1,0 +1,41 @@
+{
+  "id": "1",
+  "name": "Scott Pilgrim VS. the World",
+  "soundtrackList":[
+                    {
+                      "id": "1",
+                      "nr": "1",
+                      "name": "Anthems for a Seventeen Year-Old Girl",
+                      "artist": "Broken Social Scene",
+                      "url": "asdfasdf"
+                    },
+                    {
+                      "id": "2",
+                      "nr": "2",
+                      "name": "Black Sheep",
+                      "artist": "Metric",
+                      "url": "asdfasdf"
+                    },
+                    {
+                      "id": "3",
+                      "nr": "3",
+                      "name": "Under My Thumb",
+                      "artist": "The Rolling Stones",
+                      "url": "asdfasdf"
+                    },
+                    {
+                      "id": "4",
+                      "nr": "4",
+                      "name": "Ramona (acoustic version)",
+                      "artist": "Beck Hansen",
+                      "url": "asdfasdf"
+                    },
+                    {
+                      "id": "5",
+                      "nr": "5",
+                      "name": "Summertime",
+                      "artist": "Sex Bob-Omb",
+                      "url": "asdfasdf"
+                    }
+                   ]
+}

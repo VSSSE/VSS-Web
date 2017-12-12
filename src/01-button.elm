@@ -1,4 +1,4 @@
---This is example code from Evan's elm tutorial and serves as a prove of concept
+--This is example code from Evan's elm tutorial and serves as a prove of con
 
 
 import Html exposing (Html, button, div, text)
