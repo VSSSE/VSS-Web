@@ -1,19 +1,29 @@
+<<<<<<< HEAD
 port module MovieTunes exposing (..)
 
 import Html exposing (Html, Attribute, div, input, text, button, program, span)
 import Html.Attributes exposing (..)
 import Html.Events exposing (onClick, onInput)
+=======
+import Html exposing (Html, Attribute, div, input, text, button, program)
+import Html.Attributes exposing (..)
+import Html.Events exposing (onClick, onInput)
+-- JSON DECODER importsimport Json.Decode as Jdec
+>>>>>>> 61ae5dff9e94894944430a253ddb583781a7d6b9
 import Json.Decode.Pipeline as Jpipe
 import Json.Encode as Jenc
 import Json.Decode as Jdec
 import Dict exposing (Dict, map, toList)
 import List exposing (map)
 
+<<<<<<< HEAD
 -- outbound port
 port query : String -> Cmd msg
 -- inbound port
-port answer : 
+port answer :
 
+=======
+>>>>>>> 61ae5dff9e94894944430a253ddb583781a7d6b9
 main : Program Never Model Msg
 main = program
   { init = init

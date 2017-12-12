@@ -1,5 +1,11 @@
 {
+<<<<<<< HEAD
   "soundtrack":[
+=======
+  "id": "1",
+  "name": "Scott Pilgrim VS. the World",
+  "soundtrackList":[
+>>>>>>> 61ae5dff9e94894944430a253ddb583781a7d6b9
                     {
                       "id": "1",
                       "nr": "1",
